@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Author: Vidhiben Maheshbhai Patel
-# Author ID: vmpatel41 
+# Author: Satnam Singh
+# Author ID: vmpatel41
 # Date Created: 2026/05/15
 
 import sys
