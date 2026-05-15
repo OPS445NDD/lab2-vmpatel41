@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Author: Satnam Singh
+# Author: Vidhiben Maheshbhai Patel
 # Author ID: vmpatel41
 # Date Created: 2026/05/15
 
